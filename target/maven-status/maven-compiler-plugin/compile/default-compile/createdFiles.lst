@@ -1,0 +1,5 @@
+co/mimetics/controller/UserController.class
+co/mimetics/AppRunner.class
+co/mimetics/entity/User.class
+co/mimetics/repository/UserRepository.class
+co/mimetics/entity/request/AddUserRequest.class

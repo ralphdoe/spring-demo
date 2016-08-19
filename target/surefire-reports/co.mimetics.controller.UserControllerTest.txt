@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: co.mimetics.controller.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.014 sec <<< FAILURE! - in co.mimetics.controller.UserControllerTest
+shouldFindOneUserAfterCreating(co.mimetics.controller.UserControllerTest)  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at co.mimetics.controller.UserController.addUser(UserController.java:38)
+	at co.mimetics.controller.UserControllerTest.shouldFindOneUserAfterCreating(UserControllerTest.java:37)
+
